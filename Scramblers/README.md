@@ -1,4 +1,4 @@
-#Scramblers
+# Scramblers
 
 A simple word game where you must rearrange the letters to spell out the desired word.
 
