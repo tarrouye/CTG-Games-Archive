@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>aadp_Joysticks_All_Joysticks</string>
+		<string>aadp_Joysticks_Joystick</string>
+		<string>aadp_Utilities_Functions</string>
+		<string>aadp_SceneManager_Scene</string>
+		<string>aadp_PageController_PageController</string>
+		<string>Main</string>
+		<string>Background</string>
+		<string>Menu</string>
+		<string>Title</string>
+		<string>Settings</string>
+		<string>GameManager</string>
+		<string>Player</string>
+		<string>Waves</string>
+		<string>Ragdoll</string>
+		<string>PhysicsDebugDraw</string>
+		<string>TextButton</string>
+	</array>
+	<key>Dependencies</key>
+	<array>
+		<string>Joysticks</string>
+		<string>Utilities</string>
+		<string>Scene Manager</string>
+		<string>Page Controller</string>
+	</array>
+	<key>Description</key>
+	<string>No description available</string>
+	<key>Icon</key>
+	<string>Icon.png</string>
+</dict>
+</plist>

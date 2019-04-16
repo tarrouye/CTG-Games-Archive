@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Main</string>
+		<string>LevelData</string>
+		<string>SceneManager</string>
+		<string>IntroScreen</string>
+		<string>StartScreen</string>
+		<string>Settings</string>
+		<string>Credits</string>
+		<string>LevelEditor</string>
+		<string>ModeManager</string>
+		<string>PackManager</string>
+		<string>LevelManager</string>
+		<string>Game</string>
+		<string>GlowSquare</string>
+		<string>GlowLine</string>
+		<string>Buttons</string>
+		<string>ScrollController</string>
+		<string>PhysicsDebugDraw</string>
+		<string>Juice</string>
+		<string>Sliders</string>
+		<string>StatusBar</string>
+		<string>Globals</string>
+		<string>ccConfig</string>
+	</array>
+	<key>Created</key>
+	<string>2014-01-26 19:21:51 +0000</string>
+	<key>Dependencies</key>
+	<array>
+		<string>Weather</string>
+		<string>Universal App Emulator</string>
+	</array>
+	<key>Description</key>
+	<string>Fun, Floating, Physics-based Puzzles. Fysuzzles.</string>
+</dict>
+</plist>
