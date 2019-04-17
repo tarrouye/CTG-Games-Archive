@@ -55,7 +55,7 @@ function Welcome:centerTitle()
 end
 
 function Welcome:unscrambleTitle(cb)
-    local delay, num = 0, 1
+    local delay, num = 0.0001, 1
     for let in self.str:gmatch("[%a%s%p]") do
         tween.delay(delay, function()
             local s
