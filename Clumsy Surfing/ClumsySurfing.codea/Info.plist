@@ -22,6 +22,7 @@
 		<string>Ragdoll</string>
 		<string>PhysicsDebugDraw</string>
 		<string>TextButton</string>
+		<string>FakeGameCenter</string>
 	</array>
 	<key>Dependencies</key>
 	<array>
