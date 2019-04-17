@@ -94,7 +94,7 @@ function Title:centerTitle()
 end
 
 function Title:unscrambleTitle()
-    local delay, num = 0, 1
+    local delay, num = 0.0001, 1
     for let in self.name:gmatch("%a") do
         tween.delay(delay, function()
             local s
