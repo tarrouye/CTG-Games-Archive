@@ -57,6 +57,8 @@ function TextButton:init(txt, x, y, callback, fs, col, silent, hiding, scramble)
     self.txt = txt
     self.x = x
     self.y = y
+    self.w = 0
+    self.h = 0
     self.callback = callback
     self.pressed = false
     self.fontSize = fs or 100
