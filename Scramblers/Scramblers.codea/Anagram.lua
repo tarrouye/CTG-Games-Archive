@@ -295,7 +295,7 @@ function Anagram:win()
     self:changeStage(1 / self.perStage)
     
     -- Transition to new word
-    tween.delay(0, function() self:transitionToNew() end)
+    tween.delay(0.0001, function() self:transitionToNew() end)
 end
 
 function Anagram:transitionToNew()
