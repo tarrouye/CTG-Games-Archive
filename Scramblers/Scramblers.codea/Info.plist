@@ -18,6 +18,7 @@
 		<string>Timer</string>
 		<string>ScrollView</string>
 		<string>BlockedWords</string>
+		<string>FakeIAP</string>
 	</array>
 	<key>Created</key>
 	<string>2014-03-11 00:31:04 +0000</string>
