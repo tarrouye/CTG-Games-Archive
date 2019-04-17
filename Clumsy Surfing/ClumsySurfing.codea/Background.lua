@@ -5,7 +5,7 @@ function Background:init(x)
     self.col = color(146, 183, 192, 255)
 
     self.tree = mesh()
-    self.tree.texture = readImage("Project:Palm Tree 2")
+    self.tree.texture = readImage("Project:Palm Tree 2") or readImage("Small World:Tree 3") -- add fallback image for users who don't have the texture file. recommend finding a better palm tree image
     local tw, th = self.tree.texture.width, self.tree.texture.height
     
     self.trees = {}
