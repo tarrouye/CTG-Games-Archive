@@ -6,7 +6,7 @@ function GameManager:init()
     self.waves = Waves()
     
     self.startButton = TextButton("SURF'S UP", WIDTH / 2, HEIGHT / 2, function() self:surf() end, MIN_DIMENSION / 5)
-    self.quitButton = TextButton("I CAN'T TAKE IT ANYMORE", WIDTH / 2, HEIGHT / 64, function() Scene:change("title") end, HEIGHT / 32)
+    self.quitButton = TextButton("I CAN'T TAKE IT ANYMORE", WIDTH / 2, HEIGHT / 20, function() Scene:change("title") end, HEIGHT / 32)
     
     self.player = Player(WIDTH / 2, HEIGHT -25)
         
