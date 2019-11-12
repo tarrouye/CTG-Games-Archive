@@ -6,7 +6,7 @@ Includes code to auto-download images hosted online the first time the game runs
 
 Not available on the App Store. 
 
-Available as a web game here: http://ctgstuff.000webhostapp.com/games/ladderman/
+Available as a web game here: http://tarrouye.net/games/#ladderman
 
 The code for the web version is the processing version: 'Ladderman.pde'
 
